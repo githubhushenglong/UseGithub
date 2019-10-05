@@ -167,5 +167,6 @@ for imageName in os.listdir(inputPath):
         print("---   预计剩余: ", minutes,"min", seconds,'s   ---')
         #print("--------------预计剩余：",'%.2f' % (timeRest/60) + "min.")
         print("===================================")
+        print("=============shishi=================")
     i = i + 1
     #cv.waitKey(0)
